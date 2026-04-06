@@ -1,1 +1,1 @@
-# Printing-Pattern-4
+This is C++ program in which we have to print triangle pattern by numbers.
